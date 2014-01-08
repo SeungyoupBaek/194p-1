@@ -132,14 +132,14 @@
 				84166C81187C28A80097A39F /* AppDelegate.h */,
 				84166C82187C28A80097A39F /* AppDelegate.m */,
 				84166C84187C28A80097A39F /* Main.storyboard */,
+				00FE4E6B187CE103002AB668 /* ViewController.h */,
+				00FE4E6C187CE103002AB668 /* ViewController.m */,
 				84166C8A187C28A80097A39F /* Images.xcassets */,
 				84166CB2187C29050097A39F /* Product.h */,
 				84166CB3187C29050097A39F /* Product.m */,
 				84166C79187C28A80097A39F /* Supporting Files */,
 				00FE4E68187CDCA9002AB668 /* ProductCell.h */,
 				00FE4E69187CDCA9002AB668 /* ProductCell.m */,
-				00FE4E6B187CE103002AB668 /* ViewController.h */,
-				00FE4E6C187CE103002AB668 /* ViewController.m */,
 			);
 			path = "194p-1";
 			sourceTree = "<group>";
